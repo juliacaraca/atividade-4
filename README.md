@@ -1,18 +1,59 @@
-**Conheça o limão-caviar, fruta exótica que pode custar mais de R$ 2 mil o quilo**
+# Currículo Julia Caraça de Sousa
 
-**Citros australiano não possui sementes e não pode ser utilizado para a produção de suco**
+Olá! Sou Júlia, tenho 25 anos e sou técnica em administração de empresas, estudante de Logística e consultora SAP SD (Vendas e Distribuição) S/4HANA. Fico à disposição!
 
-Você sabe o que é [**limão**](https://globorural.globo.com/tudo-sobre/agricultura/limao/)-caviar? Nunca viu, nem comeu? Mas ouviu falar? A fruta cítrica conhecida internacionalmente como *finger lemon* é considerada exótica no Brasil, com o quilo variando entre R$ 800 e R$ 2 mil.
+## Contato
+- **Endereço:** Vila Tatetuba, São José dos Campos
+- **Telefone:** (12) 997048490
+- **E-mail:** julia.caraca.sousa@gmail.com
+- **LinkedIn:** [linkedin.com/in/julia-caraca-de-sousa](http://linkedin.com/in/julia-caraca-de-sousa)
+  
+## Habilidades
+- Comunicação
+- Disciplina
+- Organização
+- Pontualidade
+- Responsabilidade
 
-De acordo com **Luana Aparecida Castilho Maro**, engenheira agrônoma e pesquisadora da Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina (Epagri), ele pertence à família *rutaceae* e é uma das sete espécies nativas originárias da Austrália.
+## Experiência
 
-Em razão da distância entre a Oceania e os outros continentes, evoluiu separadamente dos outros citros e, por isso, apresenta características morfológicas únicas, como o formato, que não é arredondado.
+### Estúdio Voce Bonitah
+**Serviços Estéticos** 
+2020/Atualmente 
+**Atendimento ao Cliente** 
+- Design de sobrancelhas
+- Alongamento de cílios
 
-“É um fruto alongado com contorno ovoide que remete a um dedo. Há uma grande variedade de cores de casca, que vai do preto ao amarelo ou verde. Além disso, o albedo ou mesocarpo – parte branca e fibrosa – são quase inexistentes quando comparado com mais espécies”, afirma a especialista.
+### Locsim
+**Auxiliar Administrativo** 
+2018/2019 
+**Recepcionista/Atendimento ao Cliente** 
+- Organização e preenchimento de planilhas relacionadas a Cartão de Ponto
+- Distribuição de Férias
+- Folha de Pagamento, Faltas, etc.
+- Recebimento de Nota Fiscal e entrada das mesmas no sistema SAP Business
 
-**Por que o limão-caviar é tão caro?**
+### Simptec
+**Estágio** 
+2015/2016 
+**Atendimento ao Cliente, dúvidas, orçamentos:** 
+- Distribuição de material para o técnico
+- Baixar formulários e ordens de serviço
 
-Recentemente, uma embalagem de 30 gramas com duas unidades de limão-caviar a R$ 71,76 – o equivalente a R$ 2.392 o quilo – voltou a viralizar nas redes sociais, levantando questionamentos sobre o fruto pouco conhecido. O preço mais alto em relação a outras variedades de citros está ligado à baixa disponibilidade e ao caráter de novidade sobre algo que ainda não é de conhecimento geral da população, diz a engenheira da Epagri.
+## Formação
 
+### Técnico em Administração de Empresas - ETEC Santa Isabel
+**2014 - 2016** 
+Técnico em Administração de Empresas Integrado ao Ensino Médio
 
-Outro motivo é a pequena produção da árvore, explica o agricutor Tarcísio Mattos, que cultiva citros exóticos na propriedade localizada em Alfredo Wagner (SC). Diferente das outras variedades, como limão siciliano, cravo, galego e tahiti, o pé de limão-caviar não dá frutos em grande quantidade.
+### Logística - FATEC “Professor Jessen Veidal”
+**2024 - 2027** 
+Tecnólogo em Logística
+
+### Academia SAP SD S/4HANA
+**2024** 
+Ka Solution - Academia SAP módulos Vendas e Distribuição
+
+## Idiomas
+- Inglês
+- Italiano
