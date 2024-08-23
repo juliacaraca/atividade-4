@@ -55,5 +55,5 @@ Tecnólogo em Logística
 Ka Solution - Academia SAP módulos Vendas e Distribuição
 
 ## Idiomas
-- Inglês
-- Italiano
+- Inglês (Intermediário)
+- Italiano (Básico)
